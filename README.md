@@ -1,7 +1,7 @@
 Placeholder Display Ads for Websites, Mobile Sites, and Web/Mobile Apps
 =======================================================================
  
-We've all done. We screen shot static ads from other sites. We pull archived ads off of [Moat](http://www.moat.com/). 
+We've all done it. We screen shot static ads from other sites. We pull archived ads off of [Moat](http://www.moat.com/). 
  
 We fill our prototypes and development sites/apps with these static placeholders. 
  
