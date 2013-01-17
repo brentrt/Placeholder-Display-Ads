@@ -9,9 +9,9 @@ Why use these?
 --------------
  
 Three reasons: 
-1. They are ugly (like most real ads).
-2. They animate and move in annoying ways (like most real ads).
-3. They are good for testing/qc.
+- They are ugly (like most real ads).
+- They animate and move in annoying ways (like most real ads).
+- They are good for testing/qc.
  
 To #3, you can randomly/dynamically swap between sizes as needed. So when you have an ad unit that could hold a 300x250 or a 300x600 or a 300x1050? Then use these ads to see how each of those sizes may effect your templates. 
  
